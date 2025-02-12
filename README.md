@@ -51,7 +51,7 @@ pip install scipy imutils dlib pygame opencv-python
 ## 🖥️ How to Run the Project
 - Clone the repository:
 ```
-git clone https://github.com/hk1105/drowsiness-detection-system.git
+git clone https://github.com/harminderkour/drowsiness-detection-system.git
 ```
 ```
 cd drowsiness-detection-system
